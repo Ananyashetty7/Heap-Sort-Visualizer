@@ -1,11 +1,11 @@
-# Heap Sort Visualization
+# 🔥 Heap Sort Visualization 🚀
 
-## Overview
+## 🌟 Overview
 The Heap Sort Visualization is an interactive tool designed to help users understand the Heap Sort algorithm through animated visualizations. The project allows users to input custom data or use randomly generated data and visualize the sorting process in real-time with both **Top-Down** and **Bottom-Up** approaches.
 
 This project demonstrates the heap sort algorithm with a visual representation of array states at each step, offering valuable insights into the inner workings of the algorithm.
 
-## Installation
+## ⚙ Installation
 
 1. **Clone the Repository**
    ```sh
@@ -38,7 +38,7 @@ This project demonstrates the heap sort algorithm with a visual representation o
    streamlit run app.py
    ```
 
-## Features
+## ✨ Features
 
 ### 1. Real-Time Visualization
 - **Top-Down Heap Sort** and **Bottom-Up Heap Sort** visualizations.
@@ -69,14 +69,14 @@ This project demonstrates the heap sort algorithm with a visual representation o
 
 ![Animation Controls](screenshots/styling.png)
 
-## Technologies Used
-- **Python**: Main programming language for the heap sort logic.
-- **Streamlit**: Web framework for building the interactive interface.
-- **Graphviz**: Visualization library for displaying the heap and the sorting process.
-- **PIL (Pillow)**: For handling image encoding and custom app styling.
+## 🛠 Technologies Used
+- 🐍 **Python**: Main programming language for the heap sort logic.
+- 🌐 **Streamlit**: Web framework for building the interactive interface.
+- 📊 **Graphviz**: Visualization library for displaying the heap and the sorting process.
+- 🖼 **PIL (Pillow)**: For handling image encoding and custom app styling.
 
 
-## Usage
+## 🎯 Usage
 - Open the web application in your browser.
 - Choose **random or custom input**.
 - Start the **heap sort visualization**.
