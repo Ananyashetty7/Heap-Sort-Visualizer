@@ -14,29 +14,29 @@ This project demonstrates the heap sort algorithm with a visual representation o
 - Color-coded array elements at each step to highlight swaps and the current index.
 - Interactive steps with dynamic progress through the sorting process.
 
-![Visualization Example](https://github.com/user-attachments/assets/YOUR_IMAGE_URL_HERE)
+![Visualization Example](screenshots/home.png)
 
 ### 2. Custom and Random Input Support
 - Upload a **custom array** or generate a **random array**.
 - Insert or delete elements from the array dynamically.
 
-![Custom Input](https://github.com/user-attachments/assets/YOUR_IMAGE_URL_HERE)
+![Custom Input](screenshots/input.png)
 
 ### 3. Download Sorted Array
 - After the sorting process is completed, the sorted array can be **downloaded as a .txt file**.
 
-![Download Feature](https://github.com/user-attachments/assets/YOUR_IMAGE_URL_HERE)
+![Download Feature](screenshots/sortedarray.png)
 
 ### 4. Creative Styling
 - The app features a **custom background image** and **transparent sidebar** for a visually appealing interface.
 
-![Creative Styling](https://github.com/user-attachments/assets/YOUR_IMAGE_URL_HERE)
+![Creative Styling](screenshots/stepcontro.png)
 
 ### 5. Animation and Step Control
 - Users can **control the pace** of the visualization with a slider for step navigation.
 - Option to view **animated steps** for a complete heap sort animation.
 
-![Animation Controls](https://github.com/user-attachments/assets/YOUR_IMAGE_URL_HERE)
+![Animation Controls](screenshots/styling.png)
 
 ## Technologies Used
 - **Python**: Main programming language for the heap sort logic.
