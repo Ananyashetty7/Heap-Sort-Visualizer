@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import numpy as np
 import graphviz
@@ -13,9 +14,7 @@ def set_app_style():
     """
     Defines custom CSS styles for the Streamlit app.
     """
-    image_path_bg = r"C:\\Users\\Ananya\\Projects\\heap sort\\Heap-Sort-Visualizer\\purpule.jpg"  # Background image path
-   
-
+    image_path_bg = os.path.join(os.path.dirname(__file__), "purpule.jpg")
     base64_image_bg = image_to_base64(image_path_bg)
     
     st.markdown(
